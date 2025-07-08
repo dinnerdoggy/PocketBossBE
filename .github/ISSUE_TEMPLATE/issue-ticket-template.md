@@ -11,6 +11,7 @@ assignees: ''
 # Acceptance Criteria
 <!--- Figma --->
 <!--- ERD --->
+[ERD](https://drawsql.app/teams/dinnerdoggy-studios/diagrams/pocket-boss-battle)
 # Dependencies
 # Dev Notes
 <!--- Structure Checklist --->
