@@ -10,7 +10,7 @@ public class Player
     public bool IsHost { get; set; }
     public bool IsConnected { get; set; }
     public bool IsReady { get; set; }
-    public int ConnectionId { get; set; }
+    public string? ConnectionId { get; set; }
 
     // Navigation properties
     public int GameSessionId { get; set; }
