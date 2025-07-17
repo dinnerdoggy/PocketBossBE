@@ -1,4 +1,4 @@
-# PocketBoss
+# Pocket Boss Fighter BE
 ## WIP
 Pocket Boss Fighter will be a turn-based boss battle rpg.
 
