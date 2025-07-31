@@ -10,7 +10,7 @@ public enum GameState
 public class GameSession
 {
     public int Id { get; set; }
-    public string RoomCode { get; set; }
+    public string? RoomCode { get; set; }
     public bool IsActive { get; set; } //May remove after getting comfortable using enums like GameState, as these two properties do overlap.
     public DateTime CreatedAt { get; set; }
     public DateTime? EndedAt { get; set; }
